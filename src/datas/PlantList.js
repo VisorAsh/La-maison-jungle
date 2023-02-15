@@ -103,4 +103,3 @@ export const plantList = [
 		price: 4
 	}
 ]
-
